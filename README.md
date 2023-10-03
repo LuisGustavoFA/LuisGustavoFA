@@ -1,3 +1,5 @@
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,java)](https://skillicons.dev)
+
 <div>
   <a href="https://github.com/luisgustavofa/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=luisgustavofa&show_icons=true&theme=algolia"/>
