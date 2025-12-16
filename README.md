@@ -1,6 +1,6 @@
 # Luís Gustavo de Freitas Antunes
 
-Olá, sou Luís Gustavo e estou cursando Análise e Desenvolvimento de Sistemas.
+Cursando Análise e Desenvolvimento de Sistemas.
 
 ## 🌐 Social
 
