@@ -38,8 +38,12 @@ Cursando Análise e Desenvolvimento de Sistemas.
 
 ## 📚 Projects
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LuisGustavoFA&repo=biblioApp&show_icons=true&theme=tokyonight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF)](https://github.com/LuisGustavoFA/biblioApp)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LuisGustavoFA&repo=blog-games1410&show_icons=true&theme=tokyonight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF)](https://github.com/LuisGustavoFA/blog-games1410)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LuisGustavoFA&repo=estudos&show_icons=true&theme=tokyonight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF)](https://github.com/LuisGustavoFA/estudos)
 
-<a href="https://cursos.alura.com.br/user/luis-gustavo-freitas-a/fullCertificate/8acb3674a3fbdf9e5eb6f9ad217623f7">Certificado Alura</a>
-<br>
+## 📃 Certificates
+
+[![Cisco](https://img.shields.io/badge/Certificado%20Cisco%20Network%20Technician%20Career%20Path-blue)](https://www.credly.com/badges/eeccb5f5-c932-4c4f-a881-6b5935a00fed)
+[![Alura](https://img.shields.io/badge/Certificado%20Alura%20Trilha%20Programação-darkblue)](https://cursos.alura.com.br/user/luis-gustavo-freitas-a/fullCertificate/8acb3674a3fbdf9e5eb6f9ad217623f7)
+[![DIOme](https://img.shields.io/badge/Certificado%20DIO.me%20Bootcamp%20Spring%20Boot%20Claro-red)](https://dio.me/certificate/8D3TW6EN)
+
